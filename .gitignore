@@ -1,6 +1,6 @@
 .venv
 .idea
-.DS_Store
+**/.DS_Store
 catboost_info
 templates
 Archive.zip
