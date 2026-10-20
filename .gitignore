@@ -1,0 +1,13 @@
+.venv
+catboost_info
+templates
+Archive.zip
+.idea
+cat_model.pkl
+graphene finall dataset.csv
+gpr_model.pkl
+poly_model.pkl
+lgb_model.pkl
+poly_transformer.pkl
+rf_model.pkl
+cat_model.pkl
